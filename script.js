@@ -9,7 +9,7 @@ for (const heroi of heroes) {
 
     if (heroi.xp < 1000) {
         nivel = "Ferro";
-    } else if (heroi.xp <= 2000) {
+    } else if (heroi.xp >= 1001 && heroi.xp <= 2000) {
         nivel = "Bronze";
     } else if (heroi.xp <= 5000) {
         nivel = "Prata";
