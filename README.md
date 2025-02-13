@@ -52,11 +52,13 @@ Exemplo de Saída
 
 Ao executar o código JavaScript, você verá a seguinte saída no console:
 
-Exemplo de saída do classificador de nível de herói no console, mostrando o nome de cada herói e seu respectivo nível
+Exemplo de saída do classificador de nível de herói no console, mostrando o nome de cada herói e seu respectivo nível:
 
 O Herói de nome devmi-io 1 está no nível de Ascendente
 O Herói de nome heymi 2 está no nível de Prata
 O Herói de nome loolfor 3 está no nível de Radiante
-Tecnologias Utilizadas
+
+
+Tecnologias Utilizadas:
 
 JavaScript: Linguagem de programação principal para a lógica do classificador.
